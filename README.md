@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zodi79
 - 👀 I’m interested in C++ and Python develeopment, GUI and games, looking forward to collaborate on games
-- 🌱 I’m currently improving my skills on python
+- 🌱 I’m currently improving my skills on python and newest versions of C++ standard
 - 💞️ I’m looking to collaborate on desktop app
 - 📫 How to reach me: write me an email @p.tkaczyk79@gmail.com
 
